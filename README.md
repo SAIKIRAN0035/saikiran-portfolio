@@ -22,8 +22,8 @@ Open `index.html` in a browser or use your preferred dev server.
 
 ## Related
 
-- [HTML portfolio (live)](https://saikiran0035.github.io/SAIKIRAN_SE/)
 - [Vaha Ruchulu e-commerce](https://github.com/SAIKIRAN0035/e-commerce-website)
+- [Resume builder prototype](https://github.com/SAIKIRAN0035/resume-builder)
 
 ## Author
 
